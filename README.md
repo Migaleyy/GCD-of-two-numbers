@@ -29,7 +29,7 @@ def gcd():
 ```
 
 ## Output:
-![image](https://github.com/Migaleyy/GCD-of-two-numbers/assets/118262199/3146c31f-28a7-4f25-8256-e7e7ee5c3fbd)
+![image](https://github.com/Migaleyy/GCD-of-two-numbers/assets/118262199/4f31de13-8cc7-4d51-9253-115dacb6ff16)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
